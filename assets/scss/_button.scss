@@ -1,0 +1,37 @@
+.btn {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+
+    &--sm {
+        height: 38px;
+        padding: 5px 24px 0 24px;
+        font-size: 16px;
+        font-family: 'HelveticaLT-Medium';
+        border-radius: 20px;
+    }
+
+    &--lg {
+        font-size: 20px;
+        font-family: 'HelveticaLT-Bold';
+        height: 62px;
+        padding: 20px 45px;
+        border-radius: 35px 35px 35px 0px;
+        box-shadow: 0 12px 35px #003145;
+    }
+
+    &--primary {
+        background-color: $accent-color;
+        color: $light;
+    }
+
+    &--secondary {
+        background-color: $secondary-color;
+        color: $light;
+    }
+    
+    &--default {
+        background-color: $light;
+        color: $dark;
+    }
+}
