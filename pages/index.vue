@@ -1,5 +1,9 @@
 <template>
-  
+
+  <div>
+    <Hero />
+    <SectionOverview />
+  </div>
 </template>
 
 <script>
