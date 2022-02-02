@@ -28,3 +28,34 @@
         // bottom: 0px;
     }
 }
+
+.story-card {
+    min-height: 704px;
+    background-color: $primary-color;
+    border-radius: 100px 100px 100px 0;
+    padding-top: 104px;
+    position: relative;
+
+    &__logo {
+        height: 67px;
+        margin-bottom: 20px;
+    }
+
+    &__title {
+        font-size: 190px;
+        font-family: 'HelveticaLT-Heavy';
+        color: $light;
+        line-height: 140px;
+        margin-bottom: 190px;
+    }
+
+    &__bg {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+    }
+
+    &__btn {
+        z-index: 999;
+    }
+}

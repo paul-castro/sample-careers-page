@@ -65,6 +65,15 @@
                 <img src="~/assets/images/staff-img3.png" class="staff-card__image">
             </div>
         </div>
+
+        <div class="container section-overview__story mx-auto">
+            <div class="story-card flex flex-col items-center">
+                <img class="story-card__logo" src="~/assets/images/logo.svg" />
+                <h1 class="story-card__title">Story</h1>
+                <img class="story-card__bg" src="~/assets/images/staff-img4.png">
+                <button class="story-card__btn btn btn--lg btn--primary">Read Our Story</button>
+            </div>
+        </div>
     </div>
 </template>
 
