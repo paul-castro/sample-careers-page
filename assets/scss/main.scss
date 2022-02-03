@@ -1,6 +1,7 @@
 $primary-color: #003145;
 $secondary-color: #1CB9CE;
 $accent-color: #50E5A4;
+$title-color: #0096D1;
 $label-color: #006D91;
 $desc-color: #5E6D79;
 $desc-color-alt: #0091D1;
@@ -173,5 +174,47 @@ body {
         &__image:nth-child(2) {
             height: auto;
         }
+    }
+
+    &-core {
+        min-height: 1450px;
+        padding: 489px 0 106px 0;
+        margin-top: -502px;
+        background-image: linear-gradient(rgba(246,249,250, 0%), rgba(246,249,250, 100%));
+    }
+
+    &__title {
+        font-size: 50px;
+        font-family: 'HelveticaLT-Heavy';
+        color: $title-color;
+        line-height: 60px;
+        margin-bottom: 34px;
+    }
+
+    &__description {
+        font-size: 24px;
+        font-family: 'HelveticaLT-Medium';
+        color: $desc-color;
+        line-height: 36px;
+        text-align: center;
+        margin-bottom: 72px;
+    }
+}
+
+.core-feature {
+    &__content {
+        padding: 9px 0 9px 30px;
+    }
+
+    &__title {
+        color: #001626;
+        font-family: 'HelveticaLT-Bold';
+        font-size: 25px;
+    }
+
+    &__description {
+        color: $desc-color;
+        font-family: 'HelveticaLT-Medium';
+        font-size: 17px;
     }
 }

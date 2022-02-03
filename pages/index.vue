@@ -3,6 +3,7 @@
   <div>
     <Hero />
     <SectionOverview />
+    <SectionCore />
   </div>
 </template>
 

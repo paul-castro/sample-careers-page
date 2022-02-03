@@ -71,7 +71,7 @@
                 <img class="story-card__logo" src="~/assets/images/logo.svg" />
                 <h1 class="story-card__title">Story</h1>
                 <img class="story-card__bg" src="~/assets/images/staff-img4.png">
-                <button class="story-card__btn btn btn--lg btn--primary">Read Our Story</button>
+                <a class="story-card__btn btn btn--lg btn--primary">Read Our Story</a>
             </div>
         </div>
     </div>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181.55" height="181.55" viewBox="0 0 181.55 181.55">
+  <defs>
+    <filter id="Ellipse_5126" x="0" y="0" width="181.55" height="181.55" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#002b3c" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_5114" x="10.75" y="10.751" width="160.046" height="160.046" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-color="#002b3c" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_15177" data-name="Group 15177" transform="translate(22.5 16.5)">
+    <g transform="matrix(1, 0, 0, 1, -22.5, -16.5)" filter="url(#Ellipse_5126)">
+      <ellipse id="Ellipse_5126-2" data-name="Ellipse 5126" cx="68.275" cy="68.275" rx="68.275" ry="68.275" transform="translate(22.5 153.05) rotate(-90)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -22.5, -16.5)" filter="url(#Ellipse_5114)">
+      <ellipse id="Ellipse_5114-2" data-name="Ellipse 5114" cx="57.523" cy="57.523" rx="57.523" ry="57.523" transform="translate(33.25 142.3) rotate(-90)" fill="#1cb9ce"/>
+    </g>
+    <g id="Group_14958" data-name="Group 14958" transform="translate(38.838 38.839)">
+      <g id="Group_14951" data-name="Group 14951" transform="translate(0 0)">
+        <g id="Group_14950" data-name="Group 14950">
+          <g id="Group_14949" data-name="Group 14949">
+            <g id="Group_14948" data-name="Group 14948">
+              <g id="Group_14947" data-name="Group 14947">
+                <g id="Group_14946" data-name="Group 14946">
+                  <g id="Group_14945" data-name="Group 14945">
+                    <g id="Group_14944" data-name="Group 14944">
+                      <g id="Group_14943" data-name="Group 14943">
+                        <g id="Group_14942" data-name="Group 14942">
+                          <g id="Group_14941" data-name="Group 14941">
+                            <g id="Group_14940" data-name="Group 14940">
+                              <g id="Group_14939" data-name="Group 14939">
+                                <g id="Group_14938" data-name="Group 14938">
+                                  <g id="Group_14937" data-name="Group 14937">
+                                    <path id="Path_14792" data-name="Path 14792" d="M613.571,1093.7a29.436,29.436,0,1,1,29.436-29.436A29.469,29.469,0,0,1,613.571,1093.7Zm0-53.966a24.53,24.53,0,1,0,24.53,24.53A24.558,24.558,0,0,0,613.571,1039.738Z" transform="translate(-584.135 -1034.832)" fill="#fff"/>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_14954" data-name="Group 14954" transform="translate(14.717 14.718)">
+        <g id="Group_14953" data-name="Group 14953">
+          <g id="Group_14952" data-name="Group 14952">
+            <path id="Path_14793" data-name="Path 14793" d="M599.947,1060.456h-9.812v-19.624h19.624v9.812h-4.906v-4.906h-9.812v9.812h4.906Z" transform="translate(-590.135 -1040.832)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_14957" data-name="Group 14957" transform="translate(22.077 22.077)">
+        <g id="Group_14956" data-name="Group 14956">
+          <g id="Group_14955" data-name="Group 14955">
+            <path id="Path_14794" data-name="Path 14794" d="M605.4,1068.362a12.265,12.265,0,1,1,12.265-12.265A12.279,12.279,0,0,1,605.4,1068.362Zm0-19.624a7.359,7.359,0,1,0,7.359,7.359A7.367,7.367,0,0,0,605.4,1048.738Z" transform="translate(-593.135 -1043.833)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
